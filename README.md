@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syarif93
-- 👀 I’m interested in web and mobile development
+- 👀 I’m interested in Web and Mobile App development
 - 🌱 I’m currently learning typescript and dart
 - 📫 How to reach me moh.syarif93@gmail.com
 
